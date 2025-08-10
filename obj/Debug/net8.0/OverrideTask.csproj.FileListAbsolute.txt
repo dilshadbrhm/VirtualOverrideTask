@@ -1,0 +1,15 @@
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\OverrideTask\bin\Debug\net8.0\OverrideTask.exe
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\OverrideTask\bin\Debug\net8.0\OverrideTask.deps.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\OverrideTask\bin\Debug\net8.0\OverrideTask.runtimeconfig.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\OverrideTask\bin\Debug\net8.0\OverrideTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\OverrideTask\bin\Debug\net8.0\OverrideTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\OverrideTask\obj\Debug\net8.0\OverrideTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\OverrideTask\obj\Debug\net8.0\OverrideTask.AssemblyInfoInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\OverrideTask\obj\Debug\net8.0\OverrideTask.AssemblyInfo.cs
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\OverrideTask\obj\Debug\net8.0\OverrideTask.csproj.CoreCompileInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\OverrideTask\obj\Debug\net8.0\OverrideTask.sourcelink.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\OverrideTask\obj\Debug\net8.0\OverrideTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\OverrideTask\obj\Debug\net8.0\refint\OverrideTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\OverrideTask\obj\Debug\net8.0\OverrideTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\OverrideTask\obj\Debug\net8.0\OverrideTask.genruntimeconfig.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\OverrideTask\obj\Debug\net8.0\ref\OverrideTask.dll

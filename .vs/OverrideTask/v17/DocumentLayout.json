@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\OverrideTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3EA70-A8BF-4F9F-999A-42F67F692D52}|OverrideTask.csproj|c:\\users\\dilsa\\onedrive\\masa\u00FCst\u00FC\\vsrep\\overridetask\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F3EA70-A8BF-4F9F-999A-42F67F692D52}|OverrideTask.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3EA70-A8BF-4F9F-999A-42F67F692D52}|OverrideTask.csproj|c:\\users\\dilsa\\onedrive\\masa\u00FCst\u00FC\\vsrep\\overridetask\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F3EA70-A8BF-4F9F-999A-42F67F692D52}|OverrideTask.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3EA70-A8BF-4F9F-999A-42F67F692D52}|OverrideTask.csproj|c:\\users\\dilsa\\onedrive\\masa\u00FCst\u00FC\\vsrep\\overridetask\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F3EA70-A8BF-4F9F-999A-42F67F692D52}|OverrideTask.csproj|solutionrelative:models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3EA70-A8BF-4F9F-999A-42F67F692D52}|OverrideTask.csproj|c:\\users\\dilsa\\onedrive\\masa\u00FCst\u00FC\\vsrep\\overridetask\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F3EA70-A8BF-4F9F-999A-42F67F692D52}|OverrideTask.csproj|solutionrelative:models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3EA70-A8BF-4F9F-999A-42F67F692D52}|OverrideTask.csproj|c:\\users\\dilsa\\onedrive\\masa\u00FCst\u00FC\\vsrep\\overridetask\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F3EA70-A8BF-4F9F-999A-42F67F692D52}|OverrideTask.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3EA70-A8BF-4F9F-999A-42F67F692D52}|OverrideTask.csproj|c:\\users\\dilsa\\onedrive\\masa\u00FCst\u00FC\\vsrep\\overridetask\\models\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F3EA70-A8BF-4F9F-999A-42F67F692D52}|OverrideTask.csproj|solutionrelative:models\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F3EA70-A8BF-4F9F-999A-42F67F692D52}|OverrideTask.csproj|c:\\users\\dilsa\\onedrive\\masa\u00FCst\u00FC\\vsrep\\overridetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F3EA70-A8BF-4F9F-999A-42F67F692D52}|OverrideTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\OverrideTask\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\OverrideTask\\Models\\Manager.cs",
+              "RelativeToolTip": "Models\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:55:50.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\OverrideTask\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\OverrideTask\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswEgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:40:57.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\OverrideTask\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\OverrideTask\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:38:00.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "University.cs",
+              "DocumentMoniker": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\OverrideTask\\Models\\University.cs",
+              "RelativeDocumentMoniker": "Models\\University.cs",
+              "ToolTip": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\OverrideTask\\Models\\University.cs",
+              "RelativeToolTip": "Models\\University.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T18:03:51.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\OverrideTask\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Models\\Group.cs",
+              "ToolTip": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\OverrideTask\\Models\\Group.cs",
+              "RelativeToolTip": "Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:21:36.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\OverrideTask\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\OverrideTask\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:11:47.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\OverrideTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dilsa\\OneDrive\\Masa\u00FCst\u00FC\\VSrep\\OverrideTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:07:48.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
